@@ -1,0 +1,14 @@
+C:\Users\Артем\source\repos\OSp1\OSp1\bin\Debug\netcoreapp3.1\OSp1.exe
+C:\Users\Артем\source\repos\OSp1\OSp1\bin\Debug\netcoreapp3.1\OSp1.deps.json
+C:\Users\Артем\source\repos\OSp1\OSp1\bin\Debug\netcoreapp3.1\OSp1.runtimeconfig.json
+C:\Users\Артем\source\repos\OSp1\OSp1\bin\Debug\netcoreapp3.1\OSp1.runtimeconfig.dev.json
+C:\Users\Артем\source\repos\OSp1\OSp1\bin\Debug\netcoreapp3.1\OSp1.dll
+C:\Users\Артем\source\repos\OSp1\OSp1\bin\Debug\netcoreapp3.1\OSp1.pdb
+C:\Users\Артем\source\repos\OSp1\OSp1\obj\Debug\netcoreapp3.1\OSp1.csproj.AssemblyReference.cache
+C:\Users\Артем\source\repos\OSp1\OSp1\obj\Debug\netcoreapp3.1\OSp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\source\repos\OSp1\OSp1\obj\Debug\netcoreapp3.1\OSp1.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\OSp1\OSp1\obj\Debug\netcoreapp3.1\OSp1.AssemblyInfo.cs
+C:\Users\Артем\source\repos\OSp1\OSp1\obj\Debug\netcoreapp3.1\OSp1.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\OSp1\OSp1\obj\Debug\netcoreapp3.1\OSp1.dll
+C:\Users\Артем\source\repos\OSp1\OSp1\obj\Debug\netcoreapp3.1\OSp1.pdb
+C:\Users\Артем\source\repos\OSp1\OSp1\obj\Debug\netcoreapp3.1\OSp1.genruntimeconfig.cache
